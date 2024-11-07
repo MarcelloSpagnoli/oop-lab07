@@ -8,7 +8,9 @@
 bin/
 build/
 
+*/gradle
 # files ignored by extension
 *.class
 *.DS_Store
-*.gradlew.bat
+deleteme/
+*.bat
