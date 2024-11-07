@@ -11,5 +11,4 @@ build/
 # files ignored by extension
 *.class
 *.DS_Store
-deleteme/
 *.gradlew.bat
